@@ -1,7 +1,7 @@
 apiVersion: v1
 data:
-  PAGE_CONTENT: Green-Pages coming from Yellow-World!
+  PAGE_CONTENT: Green-Pages coming from Yellow-World!Test Service
 kind: ConfigMap
 metadata:
   name: pages-config-map
-  namespace: [student-name]
+  namespace: alpha
